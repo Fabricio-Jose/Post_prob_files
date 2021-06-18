@@ -28,6 +28,14 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 #### Eliminado
 - (Vacío)
 
+### Modelo Account Move Line
+#### Agregado 
+- (Vacio)
+#### Modificado
+- Atributo Antiguo [ x ] -> Atributo Nuevo [z]
+#### Eliminado
+- (Vacío)
+
 ### Manifest
 - Nueva dependencia -> account
 
