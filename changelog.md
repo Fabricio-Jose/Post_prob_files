@@ -8,7 +8,7 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 ### Modelo Account Move
 #### Agregado 
 - Método Antiguo [ fields_invisible_per_country() ] -> Método Nuevo [tags_invisible_per_country()]
-  El nuevo metodo instanciado en res.parter, recibe los parametros para la misma funcionalidad
+  - El nuevo metodo instanciado en res.parter, recibe los parametros para la misma funcionalidad
 #### Modificado
 - Método Antiguo [ x() y() ] -> Método Nuevo [z()]
 - Atributo Antiguo [ x ] -> Atributo Nuevo [z]
