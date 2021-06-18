@@ -14,7 +14,8 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - Atributo Antiguo [ x ] -> Atributo Nuevo [z]
 #### Eliminado
 - (Vacío)
-
+### Manifest
+- (Vacio)
 ## version 12 -> 13 || 01-04-2020
 
 ### Modelo Account Move
