@@ -1,6 +1,6 @@
 
 
-# Changelog New Module Name_module
+# Changelog Module Name_module
 Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 ## version 13 -> 14 || 18-06-2021
