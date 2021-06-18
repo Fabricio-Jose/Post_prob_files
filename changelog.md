@@ -27,4 +27,5 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 
 ### Manifest
 - Nueva dependencia -> account
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.0...HEAD
+
+[unreleased]: https://github.com
