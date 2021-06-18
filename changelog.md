@@ -25,5 +25,6 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - Atributo Antiguo [ x ] -> Atributo Nuevo [z]
 #### Eliminado
 
-
+### Manifest
+- Nueva dependencia -> account
 [unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.0...HEAD
