@@ -3,7 +3,7 @@
 # Changelog Module Name_module
 Todos los cambios notables de este proyecto se documentarán en este archivo.
 
-## version 13 -> 14 || 18-06-2021
+## Modificación de módulo version 14 || 18-06-2021
 
 ### Modelo Account Move
 #### Agregado 
@@ -16,7 +16,7 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - (Vacío)
 ### Manifest
 - (Vacio)
-## version 12 -> 13 || 01-04-2020
+## Migración version 13 -> 14 || 01-04-2020
 
 ### Modelo Account Move
 #### Agregado 
