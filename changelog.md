@@ -13,6 +13,7 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - Método Antiguo [ x() y() ] -> Método Nuevo [z()]
 - Atributo Antiguo [ x ] -> Atributo Nuevo [z]
 #### Eliminado
+- (Vacío)
 
 ## version 12 -> 13 || 01-04-2020
 
@@ -24,6 +25,7 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
 - Método Antiguo [ x() y() ] -> Método Nuevo [z()]
 - Atributo Antiguo [ x ] -> Atributo Nuevo [z]
 #### Eliminado
+- (Vacío)
 
 ### Manifest
 - Nueva dependencia -> account
